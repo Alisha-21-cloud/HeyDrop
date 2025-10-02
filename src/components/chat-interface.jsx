@@ -69,7 +69,7 @@ export  function ChatInterface({ isChatRoom }) {
           <Link to="/" aria-label="Back to home" className="p-1 -ml-2 hover:text-blue-600 transition-colors">
             <ArrowLeft className="w-6 h-6" />
           </Link>
-          <h3 className="md:text-2xl font-semibold leading-none tracking-tight">Oroom - {roomId}</h3>
+          <h3 className="md:text-2xl font-semibold leading-none tracking-tight">Room - {roomId}</h3>
         </div>
         <ThemeToggle />
       </div>

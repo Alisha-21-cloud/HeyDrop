@@ -142,7 +142,7 @@ function ChatRooms() {
         
         {/* Footer */}
         <div className="mt-16 pt-8 border-t border-gray-200 text-center">
-          <a href="https://talaganarajesh.vercel.app/" target="_blank" className="text-sm text-gray-500">© 2025 Open Room. Developed By Ahmad </a>
+          <a href="https://portfolio-v1-sandy-nine.vercel.app/" target="_blank" className="text-sm text-gray-500">© 2025 Open Room. Developed By Ahmad </a>
         </div>
       </div>
     </div>
