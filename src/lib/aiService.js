@@ -14,7 +14,7 @@ export const AI_BOT = {
 // Function to generate AI response
 export async function generateAIResponse(question) {
   try {
-    const response = await fetch('https://still-lake-1a8f.talaganarajesh25.workers.dev/', {
+    const response = await fetch('https://billowing-bush-1a54.ahmadalishasyed.workers.dev', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
