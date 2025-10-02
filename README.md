@@ -90,8 +90,3 @@ Edit
 git push origin feature-branch
 Open a Pull Request.
 
-
-📬 Contact
-For any inquiries, feel free to reach out:
-📧 Email: talaganarajesh@gmail.com
-🐦 Twitter: https://x.com/Rajeshtalagana

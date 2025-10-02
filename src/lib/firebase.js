@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app"
 import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA2rDRL1vjjzWZdQt56xlO4BK0L1plNUTg",
-  authDomain: "openroom-a5af6.firebaseapp.com",
-  projectId: "openroom-a5af6",
-  storageBucket: "openroom-a5af6.firebasestorage.app",
-  messagingSenderId: "1082941864962",
-  appId: "1:1082941864962:web:993c06ee6a8232731cbb1b",
-  measurementId: "G-HC6S2NQJRB"
+  apiKey: "AIzaSyAXFb-q6mLws4EiKsBPsrMukhXvpUlloOs",
+  authDomain: "open-room-dc091.firebaseapp.com",
+  projectId: "open-room-dc091",
+  storageBucket: "open-room-dc091.firebasestorage.app",
+  messagingSenderId: "732826545733",
+  appId: "1:732826545733:web:9d8a082b0a2d75e9ffbd2c",
+  measurementId: "G-FPQ8P0X6FV"
 };
 
 // Initialize Firebase
