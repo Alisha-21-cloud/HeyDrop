@@ -61,7 +61,7 @@ function ChatRooms() {
           </div>
           <div className="flex items-center gap-2">
             <a
-              href="https://github.com/talaganaRajesh/OpenRoom"
+              href="https://github.com/Alisha-21-cloud/HeyDrop"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub repository"
